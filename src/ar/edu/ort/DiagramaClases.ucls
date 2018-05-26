@@ -3,7 +3,7 @@
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
   <class id="1" language="java" name="ar.edu.ort.VectorEnteros" project="EjemploStrategy" 
     file="/EjemploStrategy/src/ar/edu/ort/VectorEnteros.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="158" y="118"/>    
+    <position height="-1" width="-1" x="315" y="123"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -12,7 +12,7 @@
   </class>  
   <class id="2" language="java" name="ar.edu.ort.EstrategiaOrdenamiento" project="EjemploStrategy" 
     file="/EjemploStrategy/src/ar/edu/ort/EstrategiaOrdenamiento.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="693" y="119"/>    
+    <position height="-1" width="-1" x="694" y="125"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      

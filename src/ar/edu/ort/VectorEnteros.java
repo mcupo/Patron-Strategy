@@ -30,11 +30,9 @@ public class VectorEnteros {
 	public void ordenar() {
 		estrategia.ordenar(vector);
 	}
-	
 	public int getTope() {
 		return tope;
 	}
-	
 	public void limpiar() {
 		for(int i=0; i<vector.length; i++) {
 			vector[i]=0;
