@@ -1,2 +1,2 @@
 # Patron-Strategy
-Ejemplo del patrón Strategy en C#
+Ejemplo del patrón Strategy en JAVA
